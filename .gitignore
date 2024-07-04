@@ -1,0 +1,15 @@
+/target
+**/*.rs.bk
+
+
+**/node_modules/
+anchor-lock.json
+yarn.lock
+package-lock.json
+
+
+# Dependency Directories
+**/Cargo.lock
+.cargo/
+
+/.anchor
